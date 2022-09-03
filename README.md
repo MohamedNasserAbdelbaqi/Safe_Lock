@@ -1,4 +1,4 @@
-# Safe Lock
+# Safe Lock (By using 8086 processor)
 
 ## Description
 
@@ -13,6 +13,7 @@ after using it, we simulate that by turning off the LED.
 Any incorrect attempt an error message will be displayed on the LCD and asks the 
 user to try again, if the attempt is correct also a confirmation message will be 
 displayed and the user will have only three trials if it exceeded system will crash.
+
 
 ### We constructed our safe-lock Based on Three Main Modes:
 
